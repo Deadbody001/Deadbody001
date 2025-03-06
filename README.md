@@ -1,4 +1,4 @@
-+-![logo](https://github.com/Deadbody001/Deadbody001/blob/main/Yellow%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner1.png)
+![logo](https://github.com/Deadbody001/Deadbody001/blob/main/Yellow%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner1.png)
 
 <h3 align="center">Graphic Designer | UI/UX Enthusiast | Illustrator & Photoshop Expert</h3>
 
@@ -10,8 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/Shehroz09Ali?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kmarkhoor" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/m-ali-shehroz" height="30" width="40" /></a>
+
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+alt="https://www.linkedin.com/in/muhammad-waqar-aslam-956959263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 </p>
 
 
