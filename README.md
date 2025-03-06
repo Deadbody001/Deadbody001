@@ -17,9 +17,9 @@
 <h3 align="left">Tools & Technologies:</h3>
 <p align="left">
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" width="40" height="40"/> 
-  </a> &nbsp 
-  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="40" height="40"/> 
+  </a> &nbsp
+
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/> 
   </a> &nbsp
