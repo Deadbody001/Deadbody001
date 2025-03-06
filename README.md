@@ -28,13 +28,13 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="adobe xd" width="40" height="40"/> 
   </a> &nbsp
   
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="40" height="40"/> 
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> &nbsp
   
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="canva" width="40" height="40"/> 
-  </a>
+    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> 
+
 </p>
 
 
