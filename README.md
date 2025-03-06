@@ -1,43 +1,35 @@
-### Hi there, I'm Waqar! 👋🎨
+![logo](https://github.com/MuhammadWaqarAslam/MuhammadWaqarAslam/blob/main/Linked%20Banner.jpg.png)
 
-🚀 **Creative Graphic Designer | UI/UX Enthusiast | Illustrator & Photoshop Expert**
+<h3 align="center">Graphic Designer | UI/UX Enthusiast | Illustrator & Photoshop Expert</h3>
 
-Welcome to my GitHub profile! As a passionate graphic designer, I specialize in creating **stunning visuals, branding designs, and user-friendly UI/UX experiences**. I enjoy crafting **logos, social media graphics, website UI, and illustrations** that bring ideas to life. 
+- 🎨 I’m passionate about creating **visually stunning designs**
+- 🖌️ Specializing in **Logo Design, Branding, UI/UX, and Digital Art**
+- 🌱 I’m currently enhancing my skills in **Advanced UI/UX Design & Motion Graphics**
+- 📫 How to reach me **muhammadwaqaraslam@gmail.com**
+- ⚡ Fun fact **Creativity fuels my designs, making each project unique and engaging!**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.behance.net/MuhammadWaqarAslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-waqar-aslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://dribbble.com/MuhammadWaqarAslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribbble" height="30" width="40" /></a>
+</p>
 
-## 🎨 **My Expertise:**  
-- **Graphic Design** (Logos, Branding, Social Media Graphics)  
-- **UI/UX Design** (Wireframes, Mockups, Prototyping)  
-- **Illustrations & Icons** (Vector Art, Custom Icon Sets)  
-- **Print & Digital Media** (Posters, Infographics, Business Cards)  
+<h3 align="left">Tools & Technologies:</h3>
+<p align="left">
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
+  <img src="https://upload.vectorlogo.zone/logos/adobe_illustrator/images/a80f3ad2-b0d9-4e44-96f7-0294c301f35d.svg" width="40" height="40"/> </a> &nbsp 
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.vectorlogo.zone/logos/adobe_photoshop/images/287b8f5b-bef7-40cf-b2b4-0f3a7766c14c.svg" alt="photoshop" width="40" height="40"/> </a>
+  &nbsp
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  &nbsp
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> </a>
+</p>
 
----
-
-## 🛠️ **Tools & Technologies:**  
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF26BE?style=for-the-badge&logo=adobexd&logoColor=white)
-![InDesign](https://img.shields.io/badge/Adobe%20InDesign-%23FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
-
----
-
-## 📂 **Featured Projects:**
-🔹 [UI/UX Mobile App Design](https://github.com/yourusername/uiux-mobile-design)  
-🔹 [Branding & Logo Design](https://github.com/yourusername/logo-branding)  
-🔹 [Social Media Design Templates](https://github.com/yourusername/social-media-designs)  
-🔹 [Illustrations & Icon Set](https://github.com/yourusername/icons-illustrations)  
-
----
-
-## 📫 **Connect with Me:**
-🌐 **Portfolio:** [Behance](https://behance.net/yourprofile) | [Dribbble](https://dribbble.com/yourprofile)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-📩 **Email:** [your@email.com](mailto:your@email.com)  
-📷 **Instagram:** [@yourhandle](https://instagram.com/yourhandle)  
-
----
-
-⭐ **Feel free to check out my repositories and projects!** If you like my work, consider giving a ⭐ on my repositories or reaching out for collaborations! 🚀
+<h4 align="left">Support:</h4>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadWaqarAslam&show_icons=true&locale=en&layout=compact" alt="MuhammadWaqarAslam" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadWaqarAslam&show_icons=true&locale=en" alt="MuhammadWaqarAslam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadWaqarAslam&" alt="MuhammadWaqarAslam" /></p>
