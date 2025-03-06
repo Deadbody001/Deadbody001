@@ -1,4 +1,4 @@
-![logo](https://github.com/MuhammadWaqarAslam/MuhammadWaqarAslam/blob/main/Linked%20Banner.jpg.png)
+![logo](https://github.com/Deadbody001/Deadbody001/blob/main/Yellow%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner1.png)
 
 <h3 align="center">Graphic Designer | UI/UX Enthusiast | Illustrator & Photoshop Expert</h3>
 
