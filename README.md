@@ -18,17 +18,25 @@
 <h3 align="left">Tools & Technologies:</h3>
 <p align="left">
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-  <img src="https://upload.vectorlogo.zone/logos/adobe_illustrator/images/a80f3ad2-b0d9-4e44-96f7-0294c301f35d.svg" width="40" height="40"/> </a> &nbsp 
+    <img src="https://upload.vectorlogo.zone/logos/adobe_illustrator/images/a80f3ad2-b0d9-4e44-96f7-0294c301f35d.svg" width="40" height="40"/> 
+  </a> &nbsp 
+  
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.vectorlogo.zone/logos/adobe_photoshop/images/287b8f5b-bef7-40cf-b2b4-0f3a7766c14c.svg" alt="photoshop" width="40" height="40"/> </a>
-  &nbsp
+    <img src="https://upload.vectorlogo.zone/logos/adobe_photoshop/images/287b8f5b-bef7-40cf-b2b4-0f3a7766c14c.svg" alt="photoshop" width="40" height="40"/> 
+  </a> &nbsp
+  
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.vectorlogo.zone/logos/adobe_xd/images/2d3dbd63-5f08-4f95-b29a-1b6eb3907d2a.svg" alt="adobe xd" width="40" height="40"/> 
+  </a> &nbsp
+  
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  &nbsp
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> &nbsp
+  
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> 
+  </a>
 </p>
-
 <h4 align="left">Support:</h4>
 <p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Deadbody001&show_icons=true&locale=en" alt="Deadbody001" /></p>
