@@ -19,19 +19,15 @@
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="40" height="40"/> 
   </a> &nbsp
-
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/> 
   </a> &nbsp
-  
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="adobe xd" width="40" height="40"/> 
   </a> &nbsp
-  
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> &nbsp
-  
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> 
 
