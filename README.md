@@ -30,7 +30,7 @@
 </p>
 
 <h4 align="left">Support:</h4>
-
+<p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Deadbody001&show_icons=true&locale=en" alt="Deadbody001" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deadbody001&" alt="Deadbody001" /></p>
 
